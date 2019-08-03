@@ -1,0 +1,17 @@
+#header{
+    text-align: center;
+    background-color: black;
+    color: deepskyblue;
+    height: 100px;
+    font-size: 60px;
+}
+
+body{
+    background-color:rgb(58, 57, 57);
+}
+
+.card{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5px;
+}
